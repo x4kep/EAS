@@ -1,4 +1,4 @@
-# EAP
+# EAS
 ## Description
 Creating mobile apps that scale and generate pasive income
 
