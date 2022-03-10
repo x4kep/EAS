@@ -5,6 +5,10 @@ Creating mobile apps that scale and generate pasive income
 ## Features
 
 - Navigation
+  - Blog ( SEO )
+    - How to grow app
+    - Steps to create great app 
+    - etc... ( monthly )
 - Services
   - Mobile development ( iOS & android )
   - Desig & Branding ( Design Logo )
@@ -31,3 +35,10 @@ Creating mobile apps that scale and generate pasive income
 - BEMIT
 - SASS
 - Inside OUT
+
+## Competition
+| Business | Link | Like |
+| ------ | ------ | ------ |
+| top30 | https://www.designrush.com/agency/mobile-app-design-development | List |
+| tapptitude | https://tapptitude.com/ | Design |
+
