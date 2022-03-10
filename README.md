@@ -39,6 +39,8 @@ Creating mobile apps that scale and generate pasive income
 ## Competition
 | Business | Link | Like |
 | ------ | ------ | ------ |
-| top30 | https://www.designrush.com/agency/mobile-app-design-development | List |
-| tapptitude | https://tapptitude.com/ | Design |
+| top30      | [top30](https://www.designrush.com/agency/mobile-app-design-development)                                                 | List     | Popularity |
+| tapptitude | [tapptitude](https://tapptitude.com/)                                                                                    | Design   |            |
+| semnexus   | [semnexus](https://semnexus.com/?utm_source=Design+Rush&utm_medium=Referral&utm_campaign=Design+Rush&utm_id=Design+Rush) | WorkFlow | 10         |
+
 
