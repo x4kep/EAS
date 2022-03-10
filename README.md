@@ -21,3 +21,13 @@ Creating mobile apps that scale and generate pasive income
 - Lighthouse testing
 - Cross browser testing
 - SEO research
+
+## Technology
+- CSS3
+- HTML5
+- Vanila JS
+
+## Technique
+- BEMIT
+- SASS
+- Inside OUT
