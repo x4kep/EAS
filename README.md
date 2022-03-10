@@ -43,4 +43,14 @@ Creating mobile apps that scale and generate pasive income
 | tapptitude | [tapptitude](https://tapptitude.com/)                                                                                    | Design   |            |
 | semnexus   | [semnexus](https://semnexus.com/?utm_source=Design+Rush&utm_medium=Referral&utm_campaign=Design+Rush&utm_id=Design+Rush) | WorkFlow | 10         |
 
+## TODO
+- Create Workflow document
+- Populate workflow document with some project ( Copy cat for start )
+- Execute copycat project
+- Host on google store
+- Host on iOS store
+- Do monitization research
+- Do Marketing research
+- Create EAP start template
+- Buy domain
 
